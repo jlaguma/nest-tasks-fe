@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://jlaguma.github.io/nest-tasks-fe/static/css/main.985582f7.css",
+    "main.js": "https://jlaguma.github.io/nest-tasks-fe/static/js/main.f6112ee9.js",
+    "index.html": "https://jlaguma.github.io/nest-tasks-fe/index.html",
+    "main.985582f7.css.map": "https://jlaguma.github.io/nest-tasks-fe/static/css/main.985582f7.css.map",
+    "main.f6112ee9.js.map": "https://jlaguma.github.io/nest-tasks-fe/static/js/main.f6112ee9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.985582f7.css",
+    "static/js/main.f6112ee9.js"
+  ]
+}
